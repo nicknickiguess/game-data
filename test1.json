@@ -2,6 +2,7 @@
   "thing": "This text is fetched from GitHub",
   "brainrot": 67,
   "array": [6, 7, 8, 9],
+  "array2": [[0, 1, 2], [3, 4, 5], [6, [7, 7.5, 7.75], 8, 9]],
   "fruits": {
      "apples": 55,
      "bananas": 56
