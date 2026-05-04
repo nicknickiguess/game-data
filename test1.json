@@ -1,5 +1,9 @@
 {
   "thing": "This text is fetched from GitHub",
   "brainrot": 67,
-  "array": [6, 7, 8, 9]
+  "array": [6, 7, 8, 9],
+  "fruits": {
+     "apples": 55,
+     "bananas": 56
+  }
 }
