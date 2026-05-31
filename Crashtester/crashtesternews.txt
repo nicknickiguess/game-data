@@ -1,4 +1,6 @@
-Welcome to CrashTestser, my brand new game!
-
-Use the scroll wheel to scroll through the news
+Use the scroll wheel to scroll down the news
 Press [R] to refresh
+
+Welcome to CrashTestser, my brand new game!
+This game got released with 30 errors,
+more may or may not come soon.
